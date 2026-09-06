@@ -1,5 +1,5 @@
 # <div align="center">Refs</div>
-A small and simple way do search folders for files using regular expressions.
+A small and simple way to search folders for files using regular expressions.
 
 For more information, click [here](HowTo.md)
 ## Features
